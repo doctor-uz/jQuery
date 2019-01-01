@@ -1,8 +1,8 @@
 ## Exercises
 
-1. Refactor your <a href="wk2_dy4_ticker">ticker project</a> to use jQuery for all DOM manipulations.
+1. Refactor your <a href="https://github.com/doctor-uz/2.JavaScript-HTML-CSS/tree/master/Ticker_1">ticker project</a> to use jQuery for all DOM manipulations.
 
-   #### My [solution](text)
+   #### My [solution](https://github.com/doctor-uz/jQuery).
 
 
 
@@ -10,11 +10,15 @@
 
    Your modal should appear 1 second after users arrive at the page. The modal should disappear when the user clicks the X in the upper right corner.
 
-   #### My [solution](text)
+   #### My [solution](https://github.com/doctor-uz/jQuery/tree/master/popup).
 
 ​	
 
 <img src="modal.png" alt="Modal">
+
+
+
+# <p align="center"> Some Theory</p>
 
 
 
